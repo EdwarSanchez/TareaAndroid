@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TareaAndroid</string>
+    <string name="titulo_text">Bienvenido</string>
+    <string name="titulo_boto">Entrar</string>
+</resources>
